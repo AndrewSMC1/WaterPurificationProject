@@ -14,11 +14,11 @@ By Kyle and Andrew
 
 ## Google Doc
 
-Link to [Google Doc](https://docs.google.com/document/d/1R1u8_MmKeeHyDbKya8oNSubdqgKZAQnq1OhBVxzhWdo/edit{target="_blank"}).
+Link to [Google Doc](https://docs.google.com/document/d/1R1u8_MmKeeHyDbKya8oNSubdqgKZAQnq1OhBVxzhWdo/edit).
 
 ## Google Sheet
 
-Link to [Google Sheet](https://docs.google.com/spreadsheets/d/1q4ler6MOYmUkqIP_f5_SbtdWfF8PwBzDHFKv5t2DIoI/edit?pli=1#gid=0{:target="_blank"}).
+Link to [Google Sheet](https://docs.google.com/spreadsheets/d/1q4ler6MOYmUkqIP_f5_SbtdWfF8PwBzDHFKv5t2DIoI/edit?pli=1#gid=0).
 
 ## Installation
 
