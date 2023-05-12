@@ -10,9 +10,8 @@ Created on Thu May 11 18:54:52 2023
 # =============================================================================
 
 
-mass = 8.34 #this is the weight of water per gallon
-#this weight per gal will give us the a similar result since waste is mostly water
-
+mass = 9 #8.34 is the weight of water per gallon
+#by over shooting it we still see this plan wont work
 days = 28
 
 #28 days for all to get each tank below 1%
